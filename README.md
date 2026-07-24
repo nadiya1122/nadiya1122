@@ -58,8 +58,8 @@ GitHub: @nadiya1122
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadiya1122&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=nadiya1122&show_icons=true&theme=tokyonight" />
 
-## 🔥 Top Languages
+## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiya1122&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiya1122&layout=compact&theme=tokyonight" />
