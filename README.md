@@ -9,6 +9,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&lines=Java+Developer;C%2B%2B+Programmer;OpenGL+Game+Developer;Always+Learning+New+Things">
 </p>
+
+
 ## 🚀 My Projects
 
 ### 🐍 Snake Game (C++ OpenGL)
@@ -72,4 +74,4 @@ GitHub: @nadiya1122
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
+<img src="https://komarev.com/ghpvc/?username=nadiya1122E&color=blue">
