@@ -58,8 +58,8 @@ GitHub: @nadiya1122
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadiya1122&show_icons=true&hide_border=true" width="450"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadiya1122&show_icons=true&hide_border=true" width="450"/>
 
 ## 🔥 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiya1122&layout=compact&hide_border=true" width="350"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadiya1122&layout=compact&hide_border=true" width="350"/>
