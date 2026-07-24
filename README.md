@@ -1,9 +1,14 @@
-# 👋 Hi, I'm Nadiya
+<h1 align="center">
+  Hi 👋, I'm Nadiya
+</h1>
 
-## 💻 Computer Science Student | Software Developer
+<h3 align="center">
+  💻 Computer Science Student | Software Developer | Problem Solver
+</h3>
 
-I am a Computer Science student interested in software development, game development, and building useful applications.
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&lines=Java+Developer;C%2B%2B+Programmer;OpenGL+Game+Developer;Always+Learning+New+Things">
+</p>
 ## 🚀 My Projects
 
 ### 🐍 Snake Game (C++ OpenGL)
@@ -63,3 +68,8 @@ GitHub: @nadiya1122
 ## 🔥 Most Used Languages
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadiya1122&layout=compact&hide_border=true" width="350"/>
+
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
